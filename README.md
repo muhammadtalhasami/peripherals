@@ -1,4 +1,5 @@
 This repository contains the system verilog implementation of various peripheral modules, including SPI (Serial Peripheral Interface) and I2C (Inter-Integrated Circuit), based on the AXI4-Lite protocol.
+
 🚀 Features:
 
     AXI4-Lite interface for easy integration with SoC designs.
